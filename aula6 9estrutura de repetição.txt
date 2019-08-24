@@ -1,0 +1,14 @@
+//tipos de estrutura de repetição que existem comando (laço, loop, repetição) 
+quando for verdadeiro
+// 3 teste no inicio (while) testa condição em 1 lugar
+
+// repetição no final ( do while ) 
+
+// repetição contada (for).
+
+while(condição)
+{
+comandos
+}
+
+função getchar (espera que o usuário insira uma letra)
